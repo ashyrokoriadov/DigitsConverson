@@ -1,0 +1,7 @@
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\obj\Debug\DigitsConversionTest.csprojResolveAssemblyReference.cache
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\bin\Debug\DigitsConversionTest.dll
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\bin\Debug\DigitsConversionTest.pdb
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\bin\Debug\DigitsConversonLibrary.dll
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\bin\Debug\DigitsConversonLibrary.pdb
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\obj\Debug\DigitsConversionTest.dll
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversionTest\obj\Debug\DigitsConversionTest.pdb

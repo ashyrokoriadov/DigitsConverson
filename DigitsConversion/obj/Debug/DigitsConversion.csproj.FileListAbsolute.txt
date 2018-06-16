@@ -1,0 +1,8 @@
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\bin\Debug\ConsoleApplication1.exe
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\bin\Debug\DigitsConversonLibrary.dll
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\bin\Debug\DigitsConversonLibrary.pdb
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\obj\Debug\DigitsConversion.csprojResolveAssemblyReference.cache
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\obj\Debug\ConsoleApplication1.exe
+C:\Users\Andriy Shyrokoryadov\Source\Workspaces\DigitsConversion\version-2.0.0.0\DigitsConversion\obj\Debug\ConsoleApplication1.pdb

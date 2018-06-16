@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsConversion", "DigitsConversion\DigitsConversion.csproj", "{83C1BBB5-C9C4-437E-882B-F7C1A6B84FAC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7} = {5EE95581-9A83-4153-8A42-956B47E1B2A7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsConversonLibrary", "DigitsConversonLibrary\DigitsConversonLibrary.csproj", "{5EE95581-9A83-4153-8A42-956B47E1B2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsConversionTest", "DigitsConversionTest\DigitsConversionTest.csproj", "{40864A02-537A-4591-B6DE-8895399EFE5E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7} = {5EE95581-9A83-4153-8A42-956B47E1B2A7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C1BBB5-C9C4-437E-882B-F7C1A6B84FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C1BBB5-C9C4-437E-882B-F7C1A6B84FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C1BBB5-C9C4-437E-882B-F7C1A6B84FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C1BBB5-C9C4-437E-882B-F7C1A6B84FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE95581-9A83-4153-8A42-956B47E1B2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40864A02-537A-4591-B6DE-8895399EFE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40864A02-537A-4591-B6DE-8895399EFE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40864A02-537A-4591-B6DE-8895399EFE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40864A02-537A-4591-B6DE-8895399EFE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://andriyshyrokoryadov.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DigitsConversion\\DigitsConversion.csproj
+		SccProjectName1 = DigitsConversion
+		SccLocalPath1 = DigitsConversion
+		SccProjectUniqueName2 = DigitsConversonLibrary\\DigitsConversonLibrary.csproj
+		SccProjectName2 = DigitsConversonLibrary
+		SccLocalPath2 = DigitsConversonLibrary
+		SccProjectUniqueName3 = DigitsConversionTest\\DigitsConversionTest.csproj
+		SccProjectName3 = DigitsConversionTest
+		SccLocalPath3 = DigitsConversionTest
+	EndGlobalSection
+EndGlobal
